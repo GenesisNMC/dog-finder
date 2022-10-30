@@ -3,7 +3,7 @@ console.clear();
 //ghost repository
 let ghosts = [
   "./images/IMG_01.jpg",
-  "./images/IMG_01.JPG",
+  "./images/IMG_01.jpg",
   "./images/IMG_02.JPG",
   "./images/IMG_02.JPG",
   "./images/IMG_03.JPG",
@@ -38,7 +38,6 @@ let ghosts = [
   "./images/IMG_17.JPG",
   "./images/IMG_18.JPG",
   "./images/IMG_18.JPG",
-
 ];
 
 /*original
